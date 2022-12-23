@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.font-1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 300;
+}
+.btn-1{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 28px;
+    border-radius: 4px;
+}
+.btn-2{
+    color: white;
+    font-weight: 500;
+    font-size:16px;
+    padding: 12px 40px;
+    border-radius: 5px;
+    background-color: #0189a1;
+}
+.video-play {
+        background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url(img/onfocus-video-bg.jpg);
+}
+.white{
+    color: white !important;
+}
